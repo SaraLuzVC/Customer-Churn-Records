@@ -32,8 +32,8 @@ ________________________________________
 *	Ejemplo de relaciones:
     *	Satisfaction Score → Exited.
     *	Balance → Satisfaction Score.
-  *	Complain → Exited.
-  *	IsActiveMember → Exited.
+    *	Complain → Exited.
+    *	IsActiveMember → Exited.
 ### 2.	Herramientas y Métodos:
 *	Gráficos Causales: Construir con causalnex o DoWhy.
 *	Identificación de Efectos Directos e Indirectos:
