@@ -1,6 +1,9 @@
 # Customer-Churn-Records
 Diseñar un modelo basado en Redes Neuronales Bayesianas para determinar que clientes tienen mayor probabilidad de abandonar, utilizando la base de datos de kaggle [Customer-Churn-Records](https://www.kaggle.com/datasets/nihelghennani/customer-churn-records/data)
 
+Base de datos que usamos para la primer presentación: [Binary Classification with a Bank Churn Dataset](https://www.kaggle.com/competitions/playground-series-s4e1)
+
+
 ## Introducción al Proyecto
 ### 1.	Definición del Problema:
 *	Determinar qué clientes tienen mayor probabilidad de abandonar (Exited) y qué factores influyen en esta decisión.
