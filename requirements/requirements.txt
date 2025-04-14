@@ -1,0 +1,18 @@
+black
+pygments>=2.7.4
+markdown>=3.3
+matplotlib
+jinja2
+requests
+mdx_truly_sane_lists
+PyYAML
+pandas
+jupyter
+pydot
+boto3
+tensorflow
+keras-cv
+keras-nlp
+keras-tuner
+tf_keras
+keras-hub-nightly  # TODO: update to keras-hub.
