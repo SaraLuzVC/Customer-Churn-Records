@@ -16,6 +16,5 @@ dependencies:
       - tensorflow-probability==0.22.0
       - tf-keras
       - imbalanced-learn
-      - pymc==5.10.3
       - causalpy
       - typing-extensions==4.5.0
